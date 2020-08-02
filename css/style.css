@@ -44,19 +44,19 @@ ul, li {
 /* Banner style begins here */
 #Banner .logo {
   position: absolute;
-  top: 25%;
-  left: 16%;
-  opacity: 0;
+  top: 1%;
+  left: 1%;
+  opacity: 10;
 }
 #Banner {
 	width: 0;
 	height: 100vh;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e64741+0,e6255d+100,7db9e8+100 */
-	background: #e64741; /* Old browsers */
-	background: -moz-linear-gradient(top, #e64741 0%, #e6255d 100%, #7db9e8 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, #e64741 0%,#e6255d 100%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, #e64741 0%,#e6255d 100%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e64741', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e6a441+0,e6255d+100,7db9e8+100 */
+	background: #e6b541; /* Old browsers */
+	background: -moz-linear-gradient(top, #f1a32d 0%, #f1a32d 100%, #7db9e8 100%);
+	background: -webkit-linear-gradient(top, #f1a32d 0%, #f1a32d 100%, #7db9e8 100%);
+	background: linear-gradient(to bottom, #e6a441 0%, #e6a441 100%, #7db9e8 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e6a441', endColorstr='#7db9e8', GradientType=0);
 	overflow: hidden;
 	position: relative;
 }
