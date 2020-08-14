@@ -240,8 +240,8 @@ body.active .mscroll {
 	margin-bottom: 90px;
 }
 #Services .each-services img {
-	width: 80px;
-	height: auto;
+	width: 250px;
+	height: 250px;
 	padding-bottom: 30px;
 }
 #Services .each-services h3 {
